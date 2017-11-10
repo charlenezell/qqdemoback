@@ -2,6 +2,8 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <%-- <meta name="theme-color" content="#FFDE00"> --%>
+    <meta name="theme-color" content="#3BBDE8">
     <title>${mainLayout__title}</title>
     <script type="text/javascript">
         ;
@@ -28,7 +30,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
     ${mainLayout__topStyle}
 </head>
-<body>
+<body ontouchstart="">
     ${mainLayout__content}
 </body>
 </html>

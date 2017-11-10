@@ -6,7 +6,7 @@
     "jello-demo"
   ],
   "scripts": {
-    "start":"fis3 server start && fis3 release -w"
+    "start":"fis3 server restart && fis3 release -w"
   },
   "license": "MIT",
   "dependencies": {
