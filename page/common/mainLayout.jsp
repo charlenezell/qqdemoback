@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <%-- <meta name="theme-color" content="#FFDE00"> --%>
-    <meta name="theme-color" content="#3BBDE8">
+    <meta name="theme-color" content="#F8F8F8">
     <title>${mainLayout__title}</title>
     <script type="text/javascript">
         ;

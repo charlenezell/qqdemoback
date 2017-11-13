@@ -9,7 +9,7 @@ ${pageInjectStyle}
 <c:set var="mainLayout__content">
 
 	<!--顶部导航 start-->
-	<div class="topNav clearfix">
+	<div class="topNav clearfix topNav--background-grey">
 		<div class="topNav__category">
 			<a href="###" class="item item_on">推荐</a>
 			<a href="###" class="item">游戏</a>

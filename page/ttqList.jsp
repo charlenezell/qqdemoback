@@ -10,7 +10,7 @@
 
 	<!--顶部导航 start-->
 
-	<div class="topNav clearfix">
+	<div class="topNav clearfix topNav--background-grey">
 		<div class="topNav__category topNav__category__tabs" data-tabid="1">
 			<a href="###" class="item">我加入的</a>
 			<a href="###" class="item">全部圈子</a>
