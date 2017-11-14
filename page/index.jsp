@@ -58,9 +58,11 @@ ${pageInjectStyle}
 				<c:if test="${item.isTopic}">
 						<div class="promoteItem01__ctrls">
 							<div class="promoteItem01__zan selfInitModule" data-method="init" data-mod="zan" data-config='{"id":${item.topicId}}'>
+								<svg class="commonIcons commonIcons--28"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_thumb"></use></svg>
 								<span class="promoteItem01__zan__num">${item.zanNumb}</span>
 							</div>
 							<div class="promoteItem01__comment">
+								<svg class="commonIcons commonIcons--28"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_comment"></use></svg>
 								<span class="promoteItem01__comment__num">${item.commentNum}</span>
 							</div>
 						</div>

@@ -42,11 +42,40 @@
 
 		</div>
 		<div class="tabView01__contents">
-			<c:forEach items="${topics}" var="item" varStatus="status">
-				<div class="topic" style="height:100px;">
-					${item.content}
-				</div>
+			<div class="commonpaddingContainer  bottomControlbar--contentPadding">
+			<c:forEach items="${highPiority}" var="item" varStatus="status">
+				<a class="highPiorityItem">
+					<svg class="commonIcons commonIcons--40"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="${item.isSiteHightPiority?'#c_commonIcons_highestp':'#c_commonIcons_highp'}"></use></svg><span class="highPiorityItem__t">${item.title}</span>
+				</a>
 			</c:forEach>
+			<div class="topicList">
+			<c:forEach items="${topics}" var="item" varStatus="status">
+				<a class="topicItem01 topicItem01--${fn:length(item.imgs)}">
+					<p class="topicItem01__t">${item.title}${item.isJing?'<span class="topicItem01__icon__jing">精</span>':''}</p>
+					<c:if test="${fn:length(item.imgs) > 0}">
+						<div class="topicItem01__thumb">
+						<c:forEach items="${item.imgs}" var="img" varStatus="status">
+							<span class="wimg"> <img src="${img}" alt=""  /></span>
+						</c:forEach>
+					</div>
+					</c:if>
+					<p class="topicItem01__desc">${item.desc}</p>
+					<div class="topicItem01__ctrls">
+						<div class="topicItem01__userName">${item.userName}</div>
+						<div class="topicItem01__postTime">${item.time}</div>
+						<div class="topicItem01__zan selfInitModule" data-method="init" data-mod="zan" data-config='{"id":${item.id}}'>
+							<svg class="commonIcons commonIcons--28"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_thumb"></use></svg>
+							<span class="topicItem01__zan__num">${item.zan}</span>
+						</div>
+						<div class="topicItem01__comment">
+							<svg class="commonIcons commonIcons--28"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_comment"></use></svg>
+							<span class="topicItem01__comment__num">${item.commentNumb}</span>
+						</div>
+					</div>
+				</a>
+			</c:forEach>
+			</div>
+			</div>
 			<div class="tabView01__contents__ctrls"></div>
 		</div>
 	</div>

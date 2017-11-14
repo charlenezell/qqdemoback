@@ -6,667 +6,111 @@
         "totalPager": 21,
         "thisPagerIndex": 1
     },
-    "topics": [{
-        "content": "硒鼓硒鼓sf,你很好的呢寺有模有样啊实打实sadsa打啊1221阿大22asds",
-        "author": {
-            "id": 10457057,
-            "level": 1,
-            "userName": "200043142",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 200043142
+    "highPiority":[
+        {   "isSiteHightPiority":true,
+            "id":"2",
+            "title":"Est aut voluptates. Aut esse ratione natus repellat. Dolor eius delectus vel omnis numquam quae. Consequatur dolorem enim quasi architecto. Expedita ipsum ut sit eum.",
+            "desc":"Molestias repellat ut laboriosam similique in reiciendis soluta. Et omnis assumenda. Rerum sunt amet soluta est laborum cum nihil amet. Sed nam quaerat. Fuga maiores repellendus aliquam sed.",
+            "time":"21分钟前",
+            "zan":"101",
+            "commentNumb":"820",
+            "userName":"梁鸿涛",
+            "imgs":[]
         },
-        "title": "我喜欢 压根夺里",
-        "formatReplySpanTime": "10-13",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 30,
-        "tag": 16,
-        "topicId": 315201,
-        "like": 1,
-        "group": {
-            "ttqId": 12,
-            "ttqName": "奥比岛圈"
+        {
+            "id":"3",
+            "title":"Aut modi laborum. Dolor eos veritatis libero est rerum voluptatem voluptas voluptatem ea. Et laborum laborum id.",
+            "desc":"Qui a sunt. Id voluptatem ea earum ut voluptatem reiciendis vel corrupti laborum. Rerum alias ipsa. Similique ea qui minima assumenda eos enim. Sint numquam aliquid eligendi ex atque.",
+            "time":"22分钟前",
+            "zan":"102",
+            "commentNumb":"840",
+            "userName":"洪耀杰",
+            "imgs":[]
         },
-        "commentCount": 1
-    }, {
-        "content": "美丽的人呢",
-        "author": {
-            "id": 10453605,
-            "level": 1,
-            "userName": "10005512",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10005512
+        {
+            "id":"4",
+            "title":"Et hic quisquam aut similique est aut explicabo. In qui aut veniam hic. Ad incidunt accusantium. Beatae error voluptate veniam. Reiciendis numquam consequuntur recusandae maxime ab impedit corporis et ipsam. Id modi quis omnis blanditiis qui debitis enim.",
+            "desc":"Eum asperiores officia ex qui. Dolores ea odit delectus ea. Quis quae molestiae animi sed.",
+            "time":"23分钟前",
+            "zan":"103",
+            "commentNumb":"860",
+            "userName":"曹志强",
+            "imgs":["http://placeimg.com/240/160/people","http://placeimg.com/240/160/people"]
         },
-        "title": "美丽的人呢",
-        "formatReplySpanTime": "08-24",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 7,
-        "tag": 16,
-        "topicId": 315004,
-        "like": 0,
-        "group": {
-            "ttqId": 12,
-            "ttqName": "奥比岛圈"
+        {
+            "id":"5",
+            "title":"Et et illo rerum atque inventore est. Qui iure harum illum est architecto eos. Occaecati est inventore consequuntur cupiditate rem. Voluptatibus sed quis eius. Ut vero veritatis veritatis modi exercitationem laudantium corrupti laborum. Asperiores omnis aut consequatur.",
+            "desc":"Ipsam asperiores quis aut labore sed dolorem eos. Deleniti excepturi provident reiciendis. Cupiditate nobis omnis.",
+            "time":"24分钟前",
+            "zan":"104",
+            "commentNumb":"880",
+            "userName":"胡泽洋",
+            "imgs":[]
         },
-        "commentCount": 0
-    }, {
-        "content": "我指的是三个主宠哦，就是魔焰吉拉、终结兔、古渊露龙三个选一个…",
-        "author": {
-            "id": 10004105,
-            "level": 14,
-            "userName": "10009425",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009425
+    ],
+    "topics": [
+        {
+            "isJing":true,
+            "id":"1",
+            "title":"Sequi corrupti sapiente voluptas accusamus eaque. Excepturi est voluptate consequatur eos voluptatem rem consequatur. Dolore reiciendis ut quibusdam alias sed saepe libero. Sit officia aperiam omnis quaerat rerum dolorem voluptatem. Sed voluptate expedita itaque harum ut quae. Doloribus maiores sequi quod nemo ipsam placeat ducimus maiores.",
+            "desc":"Sequi corrupti sapiente voluptas accusamus eaque. Excepturi est voluptate consequatur eos voluptatem rem consequatur. Dolore reiciendis ut quibusdam alias sed saepe libero. Sit officia aperiam omnis quaerat rerum dolorem voluptatem. Sed voluptate expedita itaque harum ut quae. Doloribus maiores sequi quod nemo ipsam placeat ducimus maiores.",
+            "time":"20分钟前",
+            "zan":"100",
+            "commentNumb":"800",
+            "userName":"龚浩",
+            "imgs":["http://placeimg.com/240/160/people","http://placeimg.com/240/160/people","http://placeimg.com/240/160/people"]
         },
-        "title": "超进化亚比哪一个最好",
-        "formatReplySpanTime": "08-21",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 16,
-        "tag": 5,
-        "topicId": 4916,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
+        {
+            "id":"2",
+            "title":"Est aut voluptates. Aut esse ratione natus repellat. Dolor eius delectus vel omnis numquam quae. Consequatur dolorem enim quasi architecto. Expedita ipsum ut sit eum.",
+            "desc":"Molestias repellat ut laboriosam similique in reiciendis soluta. Et omnis assumenda. Rerum sunt amet soluta est laborum cum nihil amet. Sed nam quaerat. Fuga maiores repellendus aliquam sed.",
+            "time":"21分钟前",
+            "zan":"101",
+            "commentNumb":"820",
+            "userName":"梁鸿涛",
+            "imgs":[]
         },
-        "commentCount": 4
-    }, {
-        "content": "（1）、\n 神武月：家喻户晓的神武小月月，不得不说，真的是一只神亚比，虽然种族值",
-        "author": {
-            "id": 10004504,
-            "level": 14,
-            "userName": "小4                                                ",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 502891
+        {
+            "id":"3",
+            "title":"Aut modi laborum. Dolor eos veritatis libero est rerum voluptatem voluptas voluptatem ea. Et laborum laborum id.",
+            "desc":"Qui a sunt. Id voluptatem ea earum ut voluptatem reiciendis vel corrupti laborum. Rerum alias ipsa. Similique ea qui minima assumenda eos enim. Sint numquam aliquid eligendi ex atque.",
+            "time":"22分钟前",
+            "zan":"102",
+            "commentNumb":"840",
+            "userName":"洪耀杰",
+            "imgs":[]
         },
-        "title": "我对几个守护者的解析",
-        "formatReplySpanTime": "07-17",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 11,
-        "tag": 5,
-        "topicId": 10005501,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
+        {
+            "id":"4",
+            "title":"Et hic quisquam aut similique est aut explicabo. In qui aut veniam hic. Ad incidunt accusantium. Beatae error voluptate veniam. Reiciendis numquam consequuntur recusandae maxime ab impedit corporis et ipsam. Id modi quis omnis blanditiis qui debitis enim.",
+            "desc":"Eum asperiores officia ex qui. Dolores ea odit delectus ea. Quis quae molestiae animi sed.",
+            "time":"23分钟前",
+            "zan":"103",
+            "commentNumb":"860",
+            "userName":"曹志强",
+            "imgs":["http://placeimg.com/240/160/people","http://placeimg.com/240/160/people"]
         },
-        "commentCount": 2
-    }, {
-        "content": "我指的是三个主宠哦，就是魔焰吉拉、终结兔、古渊露龙三个选一个…",
-        "author": {
-            "id": 10001201,
-            "level": 14,
-            "userName": "ueieoeoe",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10008561
+        {
+            "id":"5",
+            "title":"Et et illo rerum atque inventore est. Qui iure harum illum est architecto eos. Occaecati est inventore consequuntur cupiditate rem. Voluptatibus sed quis eius. Ut vero veritatis veritatis modi exercitationem laudantium corrupti laborum. Asperiores omnis aut consequatur.",
+            "desc":"Ipsam asperiores quis aut labore sed dolorem eos. Deleniti excepturi provident reiciendis. Cupiditate nobis omnis.",
+            "time":"24分钟前",
+            "zan":"104",
+            "commentNumb":"880",
+            "userName":"胡泽洋",
+            "imgs":[]
         },
-        "title": "超进化亚比哪一个最好",
-        "formatReplySpanTime": "05-15",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 13,
-        "tag": 5,
-        "topicId": 10002916,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
+        {
+            "id":"6",
+            "title":"Deleniti consequuntur autem corrupti sapiente amet. Quia soluta necessitatibus nihil optio. Voluptatem saepe non at tempora maiores. Dolore iste maiores enim quod similique quam sint omnis atque. Cumque itaque quia modi. Ratione maxime iusto molestias amet repellendus possimus velit.",
+            "desc":"Architecto quo totam sit dolor iusto. Amet omnis ex quibusdam dignissimos. Quis quaerat veniam vitae consequatur blanditiis magnam. Non tempore magni. Repellat totam sapiente officiis expedita.",
+            "time":"25分钟前",
+            "zan":"105",
+            "commentNumb":"900",
+            "userName":"余金鑫",
+            "imgs":[]
         },
-        "commentCount": 0
-    }, {
-        "content": "南瓜炸弹就是一神技，还有哪些让你震撼的招式呢？",
-        "author": {
-            "id": 10004103,
-            "level": 13,
-            "userName": "10009423",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009423
-        },
-        "title": "大家说说最变态的技能",
-        "formatReplySpanTime": "04-28",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 19,
-        "tag": 4,
-        "topicId": 4904,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 1
-    }, {
-        "content": "南瓜炸弹就是一神技，还有哪些让你震撼的招式呢？",
-        "author": {
-            "id": 10004501,
-            "level": 14,
-            "userName": "小1",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009489
-        },
-        "title": "大家说说最变态的技能",
-        "formatReplySpanTime": "02-14",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 49,
-        "tag": 4,
-        "topicId": 10006004,
-        "like": 1,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 2
-    }, {
-        "content": "123 靠左 加粗 红色 12131231123213211231323123a",
-        "author": {
-            "id": 10456988,
-            "level": 40,
-            "userName": "立立立立立立",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10099011
-        },
-        "title": "123213213213213312",
-        "formatReplySpanTime": "10-10",
-        "imgList": ["http://img4.a0bi.com/upload/ttq/20171010/1507623625306.gif"],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 0,
-        "topicId": 315531,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "321321313213",
-        "author": {
-            "id": 10457027,
-            "level": 1,
-            "userName": "600040840",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 600040840
-        },
-        "title": "213213213123",
-        "formatReplySpanTime": "08-25",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 0,
-        "topicId": 315021,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "sadsad",
-        "author": {
-            "id": 10457021,
-            "level": 1,
-            "userName": "600040835",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 600040835
-        },
-        "title": "asdsad",
-        "formatReplySpanTime": "08-25",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 3,
-        "tag": 0,
-        "topicId": 315015,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "sadasdasd",
-        "author": {
-            "id": 10457019,
-            "level": 1,
-            "userName": "400040722",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 400040722
-        },
-        "title": "asdsdasds",
-        "formatReplySpanTime": "08-25",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 0,
-        "topicId": 315013,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "南瓜炸弹就是一神技，还有哪些让你震撼的招式呢？",
-        "author": {
-            "id": 10001301,
-            "level": 13,
-            "userName": "10008573",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10008573
-        },
-        "title": "大家说说最变态的技能",
-        "formatReplySpanTime": "10-20",
-        "imgList": ["http://img2.a0bi.com/upload/uc/20130822/1377150026211_2.gif", "http://www.100bt.com/resource/uc/images/defaultphoto.png", "http://img2.a0bi.com/upload/uc/20120920/1348146888997.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 1491,
-        "tag": 0,
-        "topicId": 10002904,
-        "like": 14,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 96
-    }, {
-        "content": "一二",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生的发生",
-        "formatReplySpanTime": "10-12",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 32,
-        "tag": 1024,
-        "topicId": 10269427,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 7
-    }, {
-        "content": "http://v.youku.com/v_show/id_XMTQ3MjQxNz",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "dsfasdfa",
-        "formatReplySpanTime": "07-12",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 29,
-        "tag": 1024,
-        "topicId": 10269416,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 23
-    }, {
-        "content": "哈哈哈哈",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "你好呀视频的发生大发",
-        "formatReplySpanTime": "06-02",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "r/4.jpg", "r/1.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 80,
-        "tag": 1024,
-        "topicId": 10269432,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 36
-    }, {
-        "content": "如果要打败黑夜童心，可以试试我这招\n \n 用龙族***师打黑夜童心，因该用这种方",
-        "author": {
-            "id": 5502,
-            "level": 26,
-            "userName": "灏�",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009486
-        },
-        "title": "如何打败黑夜童心",
-        "formatReplySpanTime": "04-22",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 39,
-        "tag": 0,
-        "topicId": 2,
-        "like": 3,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 35
-    }, {
-        "content": "vcxvcxv",
-        "author": {
-            "id": 102105,
-            "level": 32,
-            "userName": "backc",
-            "avatar": "http://img3.a0bi.com/upload/uc/20130318/1363593311893_3.jpg",
-            "duoduoId": 10022515
-        },
-        "title": "hgjkd",
-        "formatReplySpanTime": "03-10",
-        "imgList": [],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 0,
-        "topicId": 117905,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 2
-    }, {
-        "content": "的说法斯蒂芬",
-        "author": {
-            "id": 1603,
-            "level": 7,
-            "userName": "mmm*mmxxx",
-            "avatar": "http://img2.a0bi.com/upload/uc/20131213/1386921057112_3.jpg",
-            "duoduoId": 505053
-        },
-        "title": "奥拉测试",
-        "formatReplySpanTime": "03-10",
-        "imgList": ["image/comment-image/43ea9ea4-1520-4576-b9b0-0456695b61a8.gif", "image/comment-image/45cb54e9-1831-4244-90e0-75784ec91aa9.gif"],
-        "currentFloorNum": 1,
-        "browseCount": 6,
-        "tag": 0,
-        "topicId": 748,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 2
-    }, {
-        "content": "打发",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生大发",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 11,
-        "tag": 1024,
-        "topicId": 10269442,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 2
-    }, {
-        "content": "",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "链接是否存在",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 5,
-        "tag": 1024,
-        "topicId": 10269445,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "lianndfas",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 1024,
-        "topicId": 10269444,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生放到",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 1,
-        "tag": 1024,
-        "topicId": 10269443,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "土豆大土豆",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "土豆原创视频",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 1,
-        "tag": 1024,
-        "topicId": 10269441,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "该方法的郭德纲",
-        "formatReplySpanTime": "02-22",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 1024,
-        "topicId": 10269440,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "第一第二第三",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "多个视频的发生",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 10,
-        "tag": 1024,
-        "topicId": 10269426,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 1
-    }, {
-        "content": "纳尼",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生大发",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 1,
-        "tag": 1024,
-        "topicId": 10269433,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "视频",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生大发撒旦法&middot;",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 2,
-        "tag": 1024,
-        "topicId": 10269430,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "的发生放到",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生大发撒打发",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 7,
-        "tag": 1024,
-        "topicId": 10269429,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "视频",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "的发生大发撒旦法",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 1,
-        "tag": 1024,
-        "topicId": 10269428,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }, {
-        "content": "视频1视频2视频3发表话题",
-        "author": {
-            "id": 10501,
-            "level": 24,
-            "userName": "爱爬树的",
-            "avatar": "http://www.100bt.com/resource/uc/images/defaultphoto.png",
-            "duoduoId": 10009901
-        },
-        "title": "多个视频打发",
-        "formatReplySpanTime": "02-18",
-        "imgList": ["http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg", "http://qq.100bt.com/topicVideoDefault.jpg"],
-        "currentFloorNum": 1,
-        "browseCount": 6,
-        "tag": 1024,
-        "topicId": 10269425,
-        "like": 0,
-        "group": {
-            "ttqId": 13,
-            "ttqName": "奥拉星圈"
-        },
-        "commentCount": 0
-    }],
+    ],
     "ttqCategory": {
         "ttqBlockList": [{
             "description": "",
