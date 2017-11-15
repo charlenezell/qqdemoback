@@ -1,0 +1,10 @@
+{
+    "search.exclude": {
+        "/node_modules": true,
+        "/bower_components": true,
+        "/components": true,
+        "/static": true,
+        "/widget": true,
+        "/page/demoprojects":true
+    }
+}
