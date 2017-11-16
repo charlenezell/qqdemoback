@@ -2,17 +2,17 @@
     "imgAds": [{
             "img": "http://img4.a0bi.com/upload/articleResource/20171113/1510560660636.png",
             "title": "1",
-            "link": "1"
+            "link": "/topic"
         },
         {
             "img": "http://img4.a0bi.com/upload/articleResource/20171113/1510560693597.jpg",
             "title": "2",
-            "link": "2"
+            "link": "/topic"
         },
         {
             "img": "http://img4.a0bi.com/upload/articleResource/20171113/1510560714216.png",
             "title": "3",
-            "link": "3"
+            "link": "/topic"
         }
     ],
     "promoteData": [

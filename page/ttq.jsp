@@ -42,7 +42,7 @@
 
 		</div>
 		<div class="tabView01__contents">
-			<div class="commonpaddingContainer  bottomControlbar--contentPadding">
+			<div class="commonpaddingContainer">
 			<c:forEach items="${highPiority}" var="item" varStatus="status">
 				<a class="highPiorityItem">
 					<svg class="commonIcons commonIcons--40"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="${item.isSiteHightPiority?'#c_commonIcons_highestp':'#c_commonIcons_highp'}"></use></svg><span class="highPiorityItem__t">${item.title}</span>
