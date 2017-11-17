@@ -30,7 +30,7 @@ ${pageInjectStyle}
 		    <div class="swiper-wrapper commonSwiper01__wpage">
 		    	<c:forEach items="${imgAds}" var="item" varStatus="status">
 		    		<div class="commonSwiper01__page swiper-slide">
-					    <a href="${item.link}" target="_blank" class="commonSwiper01__item tongjiBtn_js" tongjiName="banner" title="${item.title}">
+					    <a href="${item.link}" class="commonSwiper01__item tongjiBtn_js" tongjiName="banner" title="${item.title}">
 					    	<img data-src="${item.img}"  class="swiper-lazy">
 					    	<%-- <span class="commonSwiper01__item__t">${item.title}</span> --%>
 					    	<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
