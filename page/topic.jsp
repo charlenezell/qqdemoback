@@ -8,7 +8,7 @@
 	${pageInjectStyle}
 </c:set>
 <c:set var="mainLayout__content">
-	<div class="topicDetailView topNav__mainContent whiteBackground">
+	<div class="topicDetailView topNav__mainContent whiteBackground" >
 		<div class="topicDetailView__t"><div class="commonpaddingContainer">${topic.title}</div></div>
 		<%-- repeat --%>
 		<c:forEach items="${commentList}" var="item" varStatus="status">
@@ -32,7 +32,7 @@
 						</div>
 					</div>
 					<div class="topicDetailView__userInfo__c3">
-						<div class="topicDetailView__replyBtn">
+						<div class="topicDetailView__replyBtn" data-uid="${item.author.id}" data-uname="${item.author.userName}">
 							<svg class="commonIcons commonIcons--48"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_reply"></use></svg>回复
 						</div>
 					</div>
