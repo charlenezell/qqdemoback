@@ -39,6 +39,43 @@
 				</div>
 				<div class="topicDetailView__content">
 					${item.content}
+					<c:if test="${topic.voteData!=null}">
+					<!--投票 start-->
+					<!--如果是多选，请加上class:isMultiple-->
+					<div id="voteWrap" class="${topic.voteData.maxSelectNum > 1 ?'isMultiple':''}">
+						<c:forEach items="${topic.voteData.voteItemList}" var="v" varStatus="status">
+						<a href="###" class="voteItem db">
+							<div class="select_wrap clearfix">
+								<span class="v_label l">
+									<svg class="unchooseIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_unchoose"></use></svg><svg class="chooseIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#c_commonIcons_choosed"></use></svg>
+									<input type="radio" name="vItem" class="vItem " value="${v.voteId}">
+								</span>
+								<span class="l">${v.content}</span>
+							</div>
+							<div class="progressWrp">
+								<span class="progressBar"></span>
+								<span class="v" curN="${v.voteCount}">50%</span>
+							</div>
+						</a>
+						</c:forEach>
+					</div>
+					<c:if test="${!topic.userHasVoted}">
+					<c:if test="${!topic.voteData.expired}">
+						<a href="###" id="vote_js" class="vote_js db tC">投票</a>
+					</c:if>
+					<c:if test="${topic.voteData.expired}">
+						<a href="###" id="vote_js" class="vote_js isover db tC">投票已截止</a>
+					</c:if>
+					</c:if>
+					<c:if test="${topic.userHasVoted}">
+						<a href="###" id="vote_js" class="vote_js hasvote db tC">已投票</a>
+					</c:if>
+					<div class="voteCount">
+						<div class="voteCount__left">已投票人数：<span id="voteNum">${topic.voteData.voteUserNum}</span></div>
+						<div class="voteCount__right">截止时间：${topic.voteData.deadline}</div>
+					</div>
+					<!--投票 end-->
+					</c:if>
 				</div>
 			</div>
 			<c:if test="${fn:length(item.replyList)>0}">
