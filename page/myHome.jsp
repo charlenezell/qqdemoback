@@ -7,6 +7,10 @@
 	${pageInjectStyle}
 </c:set>
 <c:set var="mainLayout__content">
+	<div class="topNav__nav"><a href="/ttq?12" class="topNav__navItem"><span class="topNav__navItem__icon">&lt;</span>奥奇传说圈</a></div>
+	<div class="topNav__ctrls">
+			
+					</div>
     <div class="ttqDetailPanel" style="background-image:url('${ttqbackgroundImg}')">
 		<div class="ttqDetailPanel__wimg"><img src="${iconUrl}" alt=""></div>
 		<div class="ttqDetailPanel__t">
@@ -126,6 +130,7 @@
 			<span class="line">|</span>
 			<a href="http://qq.100bt.com/" class="btn">电脑版</a>
 	</div>
+	<div class="common_navBarRoot"></div>
     <div class="reactRoot"></div>
 	${pageInjectScript}
 </c:set>
